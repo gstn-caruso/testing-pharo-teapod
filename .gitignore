@@ -1,8 +1,7 @@
+.DS_Store
+
 # changes file
 *.changes
-
-# system image
-*.image
 
 # Pharo Smalltalk Debug log file
 PharoDebug.log
